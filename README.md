@@ -5,7 +5,6 @@ Parents worry when children are not at home. Have they eaten anything yet? When 
 Max has, like every cool cat, it's own masotodon account. I use it to push the meausurements of this script trough it, so I don't need to build and host a website for this. You can see the results here:
 https://botsin.space/@max
 
-![image](https://github.com/Stivino/ismaxathome/assets/4542444/45ebc527-66ab-4f9c-90a3-16664de0f552)
 
 # The cat
 ![PXL_20230214_163315691](https://github.com/Stivino/ismaxathome/assets/4542444/0829fd23-7d29-47a4-b700-7346f203dcde)
